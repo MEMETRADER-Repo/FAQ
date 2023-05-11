@@ -1,4 +1,7 @@
 # FAQ
+# MEMECOIN ($TRADER)
+www.memecoin.xyz
+
 ## Frecuently Asked Questions
 
 ### 1. What is a memecoin?
