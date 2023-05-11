@@ -2,7 +2,9 @@
 ## Frecuently Asked Questions
 
 ### 1. What is a memecoin?
-A memecoin is a type of cryptocurrency that is based on a meme or internet trend.  2. What is the purpose of memetrader? The purpose of memetrader is to be a fun and humorous way to engage with the cryptocurrency community, to be the REAL ONE $MEME.Inspired by the fun-loving spirit of the internet and its love for all things memetic that helps to laugh at oneself as a way of self-learning.
+A memecoin is a type of cryptocurrency that is based on a meme or internet trend.
+
+### 2. What is the purpose of memetrader? The purpose of memetrader is to be a fun and humorous way to engage with the cryptocurrency community, to be the REAL ONE $MEME. Inspired by the fun-loving spirit of the internet and its love for all things memetic that helps to laugh at oneself as a way of self-learning.
 
 MemeTrader Coin ($TRADER) is an open-source peer-to-peer digital meme token, utilizing Arbitrum  blockchain technology for storing information as layer 2 solution designed to improve the capabilities of Ethereum smart contracts . (Check Out Terms)
 
